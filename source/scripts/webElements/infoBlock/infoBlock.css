@@ -1,0 +1,24 @@
+.info-block{
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    border-top: 1px dashed #2a2a2a;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-button{
+    cursor: pointer;
+    font-size: 3em;
+    color: #5a5a5a;
+}
+
+.start-button:hover{
+    color: #2a2a2a;
+}
+
+.text-progress{
+    padding: 1em;
+    font-size: 2em;
+}

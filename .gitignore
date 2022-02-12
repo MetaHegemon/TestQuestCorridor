@@ -1,0 +1,5 @@
+node_modules/
+.idea/
+dist/
+source/compare1.js
+source/compare2.js
